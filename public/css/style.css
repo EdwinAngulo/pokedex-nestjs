@@ -1,0 +1,14 @@
+html, body {
+    padding: 20px;
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 0 0.3em 0;
+    color: red;
+}
+p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+    margin: 0 0 1.5em 0;
+}
